@@ -7,4 +7,4 @@
  * Time: 12:06
  */
 
-echo 'test teamcity3';
+echo 'test teamcity3ww';
